@@ -1,4 +1,4 @@
-﻿Param1 = InputBox("2 for passed ") 
+﻿Param1 = InputBox("2 for fail") 
 
 wait 4
 
